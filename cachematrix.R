@@ -1,4 +1,4 @@
-## This file contains two functions: makeCacheMAtrix and cacheSolve
+## This file contains two functions: makeCacheMatrix and cacheSolve
 
 
 ## makeCacheMArix creates a matrix object that caches its inverse
